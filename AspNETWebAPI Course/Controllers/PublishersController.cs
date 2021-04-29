@@ -6,6 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using AspNETWebAPI_Course.Data.Services;
 using AspNETWebAPI_Course.Data.ViewModels;
+using AspNETWebAPI_Course.Exceptions;
 
 namespace AspNETWebAPI_Course.Controllers
 {
@@ -23,22 +24,54 @@ namespace AspNETWebAPI_Course.Controllers
 		[HttpPost("add-publisher")]
 		public IActionResult AddPublisher([FromBody] PublisherVM book)
 		{
-			_publishersService.AddPublisher(book);
-			return Ok();
+			try
+			{
+				var publisher = _publishersService.AddPublisher(book);
+				return Created(nameof(AddPublisher), publisher);
+			}
+			catch (PublisherNameException ex)
+			{
+				return BadRequest($"{ex.Message}, Publisher name: {ex.PublisherName}");
+			}
+			catch (Exception e)
+			{
+				return BadRequest(e.Message);
+			}
 		}
 
 		[HttpGet("get-publisher/{id}")]
 		public IActionResult GetPublisher(int id)
 		{
 			var _publisher = _publishersService.GetPublisher(id);
+			if (_publisher != null)
+			{
+				return Ok(_publisher);
+			}
+			else
+			{
+				return NotFound();
+			} 
+		}
+
+		[HttpGet("get-publisherdata/{id}")]
+		public IActionResult GetPublisherData(int id)
+		{
+			var _publisher = _publishersService.GetPublisherData(id);
 			return Ok(_publisher);
 		}
 
 		[HttpDelete("delete-publisher/{id}")]
 		public IActionResult DeletePublisher(int id)
 		{
-			_publishersService.DeletePublisher(id);
-			return Ok();
+			try
+			{
+				_publishersService.DeletePublisher(id);
+				return Ok();
+			}
+			catch (Exception e)
+			{
+				return BadRequest(e.Message);
+			}
 		}
 	}
 }

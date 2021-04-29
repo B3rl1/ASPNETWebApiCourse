@@ -1,0 +1,18 @@
+﻿HTTP Status Codes
+1xx - Informational - used to communicate tranport protocol level information
+2xx - Succes - indicate that the client request was accepted succesfully
+200 Ok
+201 Created
+204 No content - no need to return a response body
+
+3xx - Redirection - used to indicate that the client take the additional 
+action in order to complete the request
+4xx - used for errors - client error codes
+400 Bad Request
+401 Unauthorized
+403 Forbidden
+404 Not found
+409 Conflict 
+
+5xx - used for errors - server error codes
+500 Internal Server Error - Unexpected condition

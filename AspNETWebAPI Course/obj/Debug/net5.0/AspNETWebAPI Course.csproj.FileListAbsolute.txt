@@ -1,0 +1,7 @@
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.csprojAssemblyReference.cache
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.GeneratedMSBuildEditorConfig.editorconfig
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.AssemblyInfoInputs.cache
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.AssemblyInfo.cs
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.csproj.CoreCompileInputs.cache
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.MvcApplicationPartsAssemblyInfo.cs
+W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.MvcApplicationPartsAssemblyInfo.cache
