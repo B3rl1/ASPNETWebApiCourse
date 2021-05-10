@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6wykvvDxUBJy0vIsuHICKjz3pDTn6Nj7ORQ3MersceyU0L1XRQtHSj+zGnHB7G+sE8qt+d1mt0NUk6q+UJVhjg==",
+  "dgSpecHash": "nID4XvrxMmGB+UdgWbEexbCiO2HX5QVf+AvhtI81kCjRzNFDEomX6Xc/nKKoyTqgbBvnIOb5Q4eVDtGcJ8f4pw==",
   "success": true,
-  "projectFilePath": "W:\\GitHubProjects\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj",
+  "projectFilePath": "S:\\GitHub\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kiril\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\kiril\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

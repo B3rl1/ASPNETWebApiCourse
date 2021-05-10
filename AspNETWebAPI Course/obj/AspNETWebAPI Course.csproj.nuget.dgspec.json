@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "W:\\GitHubProjects\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj": {}
+    "S:\\GitHub\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj": {}
   },
   "projects": {
-    "W:\\GitHubProjects\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj": {
+    "S:\\GitHub\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\GitHubProjects\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj",
+        "projectUniqueName": "S:\\GitHub\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj",
         "projectName": "AspNETWebAPI Course",
-        "projectPath": "W:\\GitHubProjects\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj",
+        "projectPath": "S:\\GitHub\\ASPNETWebApiCourse\\AspNETWebAPI Course\\AspNETWebAPI Course.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "W:\\GitHubProjects\\ASPNETWebApiCourse\\AspNETWebAPI Course\\obj\\",
+        "outputPath": "S:\\GitHub\\ASPNETWebApiCourse\\AspNETWebAPI Course\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "W:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "W:\\Program\\VisualStudio\\Share\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

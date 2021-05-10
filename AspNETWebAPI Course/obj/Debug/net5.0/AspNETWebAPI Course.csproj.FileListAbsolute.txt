@@ -5,3 +5,64 @@ W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNET
 W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.csproj.CoreCompileInputs.cache
 W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.MvcApplicationPartsAssemblyInfo.cs
 W:\GitHubProjects\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.MvcApplicationPartsAssemblyInfo.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\appsettings.Development.json
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\appsettings.json
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\AspNETWebAPI Course.exe
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\AspNETWebAPI Course.deps.json
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\AspNETWebAPI Course.runtimeconfig.json
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\AspNETWebAPI Course.runtimeconfig.dev.json
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\AspNETWebAPI Course.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\ref\AspNETWebAPI Course.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\AspNETWebAPI Course.pdb
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Humanizer.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Microsoft.OpenApi.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Newtonsoft.Json.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\System.Runtime.Caching.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.csprojAssemblyReference.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.GeneratedMSBuildEditorConfig.editorconfig
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.AssemblyInfoInputs.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.AssemblyInfo.cs
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.csproj.CoreCompileInputs.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.MvcApplicationPartsAssemblyInfo.cs
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.MvcApplicationPartsAssemblyInfo.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\staticwebassets\AspNETWebAPI Course.StaticWebAssets.Manifest.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\staticwebassets\AspNETWebAPI Course.StaticWebAssets.xml
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\scopedcss\bundle\AspNETWebAPI Course.styles.css
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.RazorTargetAssemblyInfo.cache
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.csproj.CopyComplete
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\ref\AspNETWebAPI Course.dll
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.pdb
+S:\GitHub\ASPNETWebApiCourse\AspNETWebAPI Course\obj\Debug\net5.0\AspNETWebAPI Course.genruntimeconfig.cache
